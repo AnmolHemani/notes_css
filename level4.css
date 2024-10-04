@@ -1,0 +1,126 @@
+/* CSS Level 4 */
+/* body{
+    text-align: center;
+} */
+/* div{
+    height: 100px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+} */
+/* #container{
+    width: 700px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: center;
+
+} */
+/* #box1{
+    background-color: lightblue;
+    flex-grow: 1;
+} */
+/* #box2{
+    background-color: pink;
+    height: 200px;
+    align-self: flex-end;
+    flex-shrink: 2;
+    flex-grow: 2;
+} */
+/* #box3{
+    background-color: beige;
+    height: 75px;
+} */
+/* #box4{
+    background-color: chartreuse;
+} */
+/* #box5{
+    background-color: cornflowerblue;
+    align-self: flex-end;
+} */
+
+/* Practice Set 6 */
+/* Question 1 */
+/* .navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+li{
+    list-style-type: none;
+} */
+
+/* Question 2 */
+/* .outer{
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+} */
+/* 
+div{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
+@media (width:400px){
+    div{
+        background-color: red;
+    }
+}
+@media (min-width:400px){
+    div{
+        background-color: green;
+    }
+}
+@media (max-width:350px){
+    div{
+        background-color: blue;
+    }
+}
+@media (min-width:351px) and (max-width:399px){
+    div{
+        background-color: yellow;
+    }
+} */
+
+/* Practice Set 7 */
+/* div{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+@media (max-width:300px){
+    div{
+        background-color: green;
+    }
+}
+@media (min-width:300px) and (max-width:400px){
+    div{
+        background-color: pink;
+    }
+}
+@media (min-width:400px) and (max-width:600px){
+    div{
+        background-color: red;
+    }
+}
+@media (min-width:600px){
+    div{
+        background-color: blue;
+    }
+} */
